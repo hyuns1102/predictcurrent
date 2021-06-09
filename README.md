@@ -12,13 +12,13 @@ Training Error, Test Error의 차이가 가장 적은 곳을 찾아 결과 값�
 
 <br>
 <p align="center">
-  <img src="./Image/img1.png" alt="Linear Regression을 활용한 예측 환율 비교" width="700" height="350" />
-  Linear Regression을 활용한 예측 환율 비교
+  <img src="./Image/img1.png" alt="Linear Regression을 활용한 예측 환율 비교" width="700" height="350" /> <br>
+  <span>Linear Regression을 활용한 예측 환율 비교</span>
 </p>
 
 <p align="center">
-  <img src="./Image/img2.png" alt="NeuralNetwork를 활용한 예측 환율 비교" width="700" height="350" />
-  NeuralNetwork를 활용한 예측 환율 비교
+  <img src="./Image/img2.png" alt="NeuralNetwork를 활용한 예측 환율 비교" width="700" height="350" /> <br>
+  <span>NeuralNetwork를 활용한 예측 환율 비교</span>
 </p>
 
 <br>
